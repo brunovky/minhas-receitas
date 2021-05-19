@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "18733337984",
+    "project_id": "minhas-receitas-3aca7",
+    "storage_bucket": "minhas-receitas-3aca7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18733337984:android:7abc8d67a2b90471fb4565",
+        "android_client_info": {
+          "package_name": "com.brunooliveira.minhasreceitas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18733337984-80a3n9q0e96v9725d8l02f6gevckg712.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfVkBMUSbDm7YBYBKSws4bN5iShAV0G58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18733337984-80a3n9q0e96v9725d8l02f6gevckg712.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
